@@ -1,0 +1,13 @@
+.background{
+  width: 100vw;
+  height: 100vh;
+  background-image: url('https://images.unsplash.com/photo-1560768063-0c81fe6f38b1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80');
+  background-size: cover;
+  background-position: center;
+}
+.border{
+  border-width: 5px !important;
+}
+.bg-transparent {
+  background: rgba(0, 0, 0, 0.69) !important;
+}
